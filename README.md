@@ -30,4 +30,4 @@ www.helpb1.com.br
 
 # Download
 
-* Instale a ultima versão [Link](https://www.youtube.com/watch?v=vD1lNigaNII)
+* Instale a ultima versão [Link](https://github.com/HelpB1/AddonHelpBuscaReceitaCEP-Free/releases/latest)
