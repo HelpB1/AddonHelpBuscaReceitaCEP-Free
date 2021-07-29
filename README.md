@@ -2,7 +2,7 @@
 
  * Preenche os dados do PN automaticamente conforme dados da Receita Federal.
  * Preenche/Corrige os dados de endereço com a API do correio, inibindo erros de cadastro para documentos fiscais e SPED. 
- * Ativação Online (Uso gratuido por 30 dias sem buroracria, apenas faça o download instale e utilize).
+ * Ativação Online (Uso gratuito por 30 dias sem burocracia, faça o download, instale e utilize).
 
 HELPB1 | CONSULTORIA SAP - FABRICA DE SOFTWARE - CLOUD SERVICES
 www.helpb1.com.br 
@@ -11,11 +11,10 @@ www.helpb1.com.br
 # Benefícios do add-on
 
 * Produto Help.
-* Licenciamento e ativação Online.
 * Inibe erros de cadastro.
 * Inibe erros de documentos de marketing.
 * Inibe erros de SPED por erros de dados cadastrais.
-* Preenchimento automatico do dados.
+* Preenchimento automático dos dados.
 * Agilidade no cadastro de PN.
 
 # Usabilidade
@@ -27,3 +26,7 @@ www.helpb1.com.br
 
 * Banco de dados: HANA e SQL
 * SAP versão 10
+
+# Download
+
+* Instale a ultima versão [Link](https://www.youtube.com/watch?v=vD1lNigaNII)
