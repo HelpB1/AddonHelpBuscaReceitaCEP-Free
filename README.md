@@ -21,7 +21,7 @@ www.helpb1.com.br
 # Usabilidade
 
 * Add-on utiliza a UI do SDK SAP, trabalha com dois eventos Adicionar e Atualizar o PN.
-* Após informar o CNPJ e clicar no botão pesquisar, o add-on efetua a pesquisa na receita federal trazendo os dados e preenchendo de forma automática: Razão social, CNPJ, IE, e-mail, CEP, número e complemento, com base nessa no resultado o add-on efetua a pesquisa na API do correio para preencher de forma correta os dados de endereço no SAP.
+* Após informar o CNPJ e clicar no botão pesquisar, o add-on efetua a pesquisa na receita federal trazendo os dados e preenchendo de forma automática: Razão social, CNPJ, IE, e-mail, CEP, número e complemento, com base no resultado o add-on efetua a pesquisa na API do correio para preencher de forma correta os dados de endereço no SAP.
 
 # Requisitos
 
