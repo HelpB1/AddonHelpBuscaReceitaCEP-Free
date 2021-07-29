@@ -2,7 +2,7 @@
 
  * Preenche os dados do PN automaticamente conforme dados da Receita Federal.
  * Preenche/Corrige os dados de endereço com a API do correio, inibindo erros de cadastro para documentos fiscais e SPED. 
- * Ativação Online (Uso gratuito por 30 dias sem burocracia, faça o download, instale e utilize).
+ * Ativação Online (Uso gratuito por 30 dias sem burocracia podendo ser renovado, faça o download, instale e utilize).
  * Assista ao video da DEMO [Link](https://www.youtube.com/watch?v=vD1lNigaNII)
 
 HELPB1 | CONSULTORIA SAP - FABRICA DE SOFTWARE - CLOUD SERVICES
