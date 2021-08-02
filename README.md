@@ -1,6 +1,6 @@
 # Add-on B1Tools. 
 
- > A ideia do B1Tools nasceu da necessidade diária em manter dados atualizados e fidedignos para operações cruciais do dia a dia e que a cada versão atualizada seja acrescentado uma nova habilidade.
+ > O add-on B1Tools foi desenvolvido para centralizar soluções que apoiam no dia a dia do SAP Business One em um produto leve e com melhorias significantes ao dia a dia do usuário. O nosso objetivo é desenvolver ferramentas aderentes a todas as empresas que utilizam o SAP B1..
 
 HELPB1 | CONSULTORIA SAP - FABRICA DE SOFTWARE - CLOUD SERVICES
 www.helpb1.com.br 
