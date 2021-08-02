@@ -8,7 +8,7 @@ www.helpb1.com.br
 # Requisitos.
 
 * Banco de dados: HANA e SQL
-* SAP versão 10
+* SAP Nas versões: 10, 9.3 e 9.2
 
 # Download.
 
