@@ -1,4 +1,6 @@
-# Add-on Help pesquisa CNPJ na Receita e API correio pelo CEP
+# Add-on Help Tools 
+
+1.0 - pesquisa CNPJ na Receita e API correio pelo CEP
 
  * Preenche os dados do PN automaticamente conforme dados da Receita Federal.
  * Preenche/Corrige os dados de endereço com a API do correio, inibindo erros de cadastro para documentos fiscais e SPED. 
