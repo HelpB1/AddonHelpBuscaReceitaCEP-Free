@@ -1,6 +1,6 @@
 # Add-on B1Tools. 
 
- > A ideia do B1Tools nasceu da necessidade diária em manter dados atualizados e fidedignos para operações cruciais do dia a dia. 
+ > A ideia do B1Tools nasceu da necessidade diária em manter dados atualizados e fidedignos para operações cruciais do dia a dia e que a cada versão atualizada seja acrescentado uma nova habilidade.
 
 HELPB1 | CONSULTORIA SAP - FABRICA DE SOFTWARE - CLOUD SERVICES
 www.helpb1.com.br 
