@@ -9,6 +9,7 @@ www.helpb1.com.br
 
 * Banco de dados: HANA e SQL
 * SAP Nas versões: 10, 9.3 e 9.2
+* Plataformas 32/64 bits
 
 # Download.
 
