@@ -21,6 +21,9 @@ www.helpb1.com.br
 
 # Benefícios do add-on de cada versão.
 
+** 1.2
+* Preenche a taxa de câmbio de todas moedas, buscando o fechamento do dia útil anterior!
+
 ** 1.0
 * Preenche os dados do PN automaticamente conforme dados da Receita Federal.
 * Preenche/Corrige os dados de endereço com a API do correio, inibindo erros de cadastro para documentos fiscais e SPED. 
@@ -32,6 +35,9 @@ www.helpb1.com.br
 * Agilidade no cadastro de PN.
 
 # Usabilidades de cada versão.
+
+** 1.2
+* Foi adicionado um botão "Atualizar taxa" na tela "Taxas de câmbio e índices" do SAP e clicando no botão o add-on efetua a leitura das moedas cadastradas no SAP e efetua a busca da taxa atualizada no banco central.
 
 ** 1.0
 * Add-on utiliza a UI do SDK SAP, trabalha com dois eventos Adicionar e Atualizar o PN.
