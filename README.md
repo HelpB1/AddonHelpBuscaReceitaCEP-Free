@@ -21,6 +21,9 @@ www.helpb1.com.br
 
 # Benefícios do add-on de cada versão.
 
+** 1.9
+* Melhorias de tratamentos de dados e alguns ISSUE!
+
 ** 1.2
 * Preenche a taxa de câmbio de todas moedas, buscando o fechamento do dia útil anterior!
 
