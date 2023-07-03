@@ -21,6 +21,9 @@ www.helpb1.com.br
 
 # Benefícios do add-on de cada versão.
 
+** 2.3
+* Melhoria sobre os dados de IE, agora traz o IE de cada CNPJ pelo estado rais do CNPJ.
+
 ** 2.0 e 2.1
 * Melhorias de tratamentos de dados e alguns ISSUE e utilização do viacep na issue #2
 
