@@ -19,21 +19,9 @@ www.helpb1.com.br
 
 * Assista ao video da DEMO da versão 1.0 [Link](https://drive.google.com/file/d/12KSHUEGxWIsx46pTIiZxvyGnV3SNYbGO/view?usp=sharing)
 
-# Benefícios do add-on de cada versão.
+# Habilidades do add-on.
 
-** 2.3
-* Melhoria sobre os dados de IE, agora traz o IE de cada CNPJ pelo estado rais do CNPJ.
-
-** 2.0 e 2.1
-* Melhorias de tratamentos de dados e alguns ISSUE e utilização do viacep na issue #2
-
-** 1.9
-* Melhorias de tratamentos de dados e alguns ISSUE!
-
-** 1.2
-* Botão para preenchimento da taxa de câmbio de todas moedas, buscando o fechamento do dia útil anterior na propria tela taxa de cambio do SAP.
-
-** 1.0
+** Cadastro do PN (Cliente / Fornecedor) - Eventos - Adicionar e Atualizar.
 * Preenche os dados do PN automaticamente conforme dados da Receita Federal.
 * Preenche/Corrige os dados de endereço com a API do correio, inibindo erros de cadastro para documentos fiscais e SPED. 
 * Ativação Online (Uso gratuito por 30 dias sem burocracia podendo ser renovado, faça o download, instale e utilize).
@@ -43,7 +31,16 @@ www.helpb1.com.br
 * Preenchimento automático dos dados.
 * Agilidade no cadastro de PN.
 
-# Usabilidades de cada versão.
+** Taxa de cambio 
+* Botão para preenchimento da taxa de câmbio de todas moedas, buscando o fechamento do dia útil anterior na propria tela taxa de cambio do SAP.
+
+** Fluxo de caixa
+* 
+
+# Resumo das ultimas versões.
+
+** 2.0
+* Fluxo de caixa e dashboard.
 
 ** 1.2
 * Foi adicionado um botão "Atualizar taxa" na tela "Taxas de câmbio e índices" do SAP e clicando no botão o add-on efetua a leitura das moedas cadastradas no SAP e efetua a busca da taxa atualizada no banco central.
